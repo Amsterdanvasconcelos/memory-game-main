@@ -1,0 +1,15 @@
+pasta-projeto:
+    index:
+    pasta-images:
+    pasta-css:
+        reset:
+        login:
+        game:
+    pasta-js:
+        login:
+        game:
+    pasta-pages:
+        game:
+
+//
+font:

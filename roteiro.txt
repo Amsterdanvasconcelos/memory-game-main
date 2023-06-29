@@ -1,5 +1,10 @@
 pasta-projeto:
     index:
+        class:
+            login-form
+            login__header
+            login__input
+            login__button
     pasta-images:
     pasta-css:
         reset:
@@ -7,9 +12,55 @@ pasta-projeto:
         game:
     pasta-js:
         login:
+            function:
+                validateInput
+                handleSubmit
         game:
+            function:
+                createElement
+                createCard
+                loadGame
+            array:
+                characters
+                duplicateCharacters
+                shuffledArray
     pasta-pages:
         game:
+        class:
+        grid
+        card
+        face front
+        face back
 
 //
-font:
+colors:
+    #333
+    #ee665c
+    #eee
+    #aaa
+    #39813a
+
+font: 
+    Press Start 2P
+
+images names:
+    'beth'
+    'jerry'
+    'jessica'
+    'morty'
+    'pessoa-passaro'
+    'pickle-rick'
+    'rick'
+    'summer'
+    'meeseeks'
+    'scroopy'
+
+Nomes que esqueço:
+    defer
+    preventDefault()
+    localStorage .setItem
+    window .location
+    aspect-ratio
+    transform-style: preserve-3d;
+    backface-visibility: hidden;
+
